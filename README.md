@@ -10,7 +10,7 @@
 
 **Builts for Linux, Windows, and Mac: [https://github.com/jckuri/silver_robot/tree/main/BUILD](./BUILD/)**
 
-**IMPORTANT NOTE: I added the full directory `SilverRobot/Library/` to the file .gitignore in order to significantly reduce the size of this GitHub repository.**
+**IMPORTANT NOTE: I added the full directory `SilverRobot/Library/` to the file `.gitignore` in order to significantly reduce the size of this GitHub repository.**
 
 A GDD (game design document) is a highly descriptive, living document of the design of a video game. It helps to define the game details and features you intend for your game.
 
