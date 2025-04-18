@@ -25,7 +25,7 @@ public class Game : MonoBehaviour
     public SpriteRenderer cloudsBackground;
     public AudioSource coinAudioSource, deathAudioSource, jumpAudioSource, landingAudioSource, winningAudioSource;
     public AudioClip coinSound, deathSound, jumpSound, landingSound, winningSound;
-    public PlayerMovement player;
+    [SerializeField] public PlayerMovement player;
 
     // public void playSound(AudioClip clip) {
     //     audioSource.clip = clip;
