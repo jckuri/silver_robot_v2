@@ -106,6 +106,8 @@ Fires can patrol. They walk side to side over and over again. This is a very bas
 
 ---------------------------
 
+### How to run the full version of Silver Robot instead of the 1-minute version
+
 <table border="1">
 
 <tr><td>
