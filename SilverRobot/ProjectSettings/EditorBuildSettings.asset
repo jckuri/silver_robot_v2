@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/2D Platformer Game/Game_End/Scenes/Game_End.unity
     guid: 72f7cde6697d6214e927b487784a8bea
+  - enabled: 1
+    path: Assets/2D Platformer Game/Game_Begin/Scenes/Game_Begin.unity
+    guid: 3ff81e098eec5ff1da7d9ebf80cf6d26
   m_configObjects: {}
