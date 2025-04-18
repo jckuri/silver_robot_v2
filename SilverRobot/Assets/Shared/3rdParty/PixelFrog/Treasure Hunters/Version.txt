@@ -1,0 +1,8 @@
+Source Url: 
+* https://pixelfrog-assets.itch.io/treasure-hunters
+
+License Url:
+* https://pixelfrog-assets.itch.io/treasure-hunters
+
+Changelog: 
+* Moved to /Assets/3rdParty/

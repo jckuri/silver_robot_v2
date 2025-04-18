@@ -1,0 +1,42 @@
+// Here are some helpful code snippets. Use of these snippets is OPTIONAL.
+
+////////////////////////////////
+// GAMEPLAY - RESTART THE GAME
+////////////////////////////////
+// Add the current scene into the build settings
+// Use this code snippet when you want to restart the game
+// This is a relatively easy way to restart the game
+// There are alternative solutions, but this way is easy.
+SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+
+////////////////////////////////
+// AUDIO - Play a sound
+////////////////////////////////
+// The Game_Begin scene includes a prefab called AudioManager
+// The prefab is setup with some existing sound effects. Expand the prefab to see
+// the list of sound effects.
+// Optional: You can add/remove sound effects from the prefab
+// Use this code snippet when you want to play a sound effect.
+// The sound effect must be added to the AudioManager prefab and the name (e.g. "Hit02")
+// must match the name of one of the AudioClips on the prefab.
+// You must modify the code to fit your needs
+AudioManager.Instance.PlayAudioClip("Hit02");
+
+////////////////////////////////
+// PHYSICS - Detect a collision
+////////////////////////////////
+// Use this code snippet as inspiration to detect collision
+// You must modify the code to fit your needs
+public void OnCollisionEnter2D(Collision2D collision)
+{
+    Enemy enemy = collision.gameObject.GetComponent<Enemy>();
+
+    if (enemy != null)
+    {
+        //Debug.Log("Enemy Collision");
+    }
+}
+
+////////////////////////////////
+// OTHER
+////////////////////////////////

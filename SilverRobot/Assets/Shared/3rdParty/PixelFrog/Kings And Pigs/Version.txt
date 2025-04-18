@@ -1,0 +1,8 @@
+Source Url: 
+* https://pixelfrog-assets.itch.io/kings-and-pigs
+
+License Url:
+* https://pixelfrog-assets.itch.io/kings-and-pigs
+
+Changelog: 
+* Moved to /Assets/3rdParty/
