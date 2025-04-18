@@ -8,7 +8,7 @@
 
 **GitHub Repository: [https://github.com/jckuri/silver_robot_v2](https://github.com/jckuri/silver_robot_v2)**
 
-**Builts for Linux, Windows, and Mac: [https://github.com/jckuri/silver_robot/tree/main/BUILD](./BUILD/)**
+**Builts for Linux, Windows, and Mac: [https://github.com/jckuri/silver_robot_v2/tree/main/SilverRobot/BUILD](./SilverRobot/BUILD/)**
 
 **IMPORTANT NOTE: I added the full directory `SilverRobot/Library/` to the file `.gitignore` in order to significantly reduce the size of this GitHub repository.**
 
